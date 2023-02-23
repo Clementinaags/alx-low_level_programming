@@ -1,8 +1,7 @@
 #include "main.h"
 
 /**
- * main - print_alphabet in lowercase and create a new line
- * Return: Always 0
+ *print_alphabet in lowercase
  */
 void print_alphabet(void)
 {
